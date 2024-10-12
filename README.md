@@ -5,7 +5,7 @@ Este proyecto es una aplicación que permite la conversión de distintas monedas
 ## Características
 
 - Conversión de múltiples monedas.
-- Integración con un servicio externo para obtener las tasas de cambio.
+- Integración con un servicio externo para obtener las tasas de cambio a tiempo real!!!.
 - Manejo de excepciones para asegurar robustez en la conversión de monedas.
 - Validación de entradas de usuario.
 - Documentación y estructura clara del código.
