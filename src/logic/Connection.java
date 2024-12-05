@@ -9,7 +9,7 @@ import java.net.http.HttpResponse;
 
 
 public class Connection {
-    private static final String KEY = "454a85a284acf62b4746a45f";
+    private static final String KEY = "SECRET-KEY";
     private static final String BASE_URL = "https://v6.exchangerate-api.com/v6/" + KEY;
     private static final HttpClient CLIENT = HttpClient.newHttpClient();
     private static String currentUrl = BASE_URL;
